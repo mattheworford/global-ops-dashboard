@@ -3,6 +3,9 @@
 ## Overview
 This project is a 3D Global Operations Dashboard that visualizes global population data using Three.js for 3D rendering and Chart.js for 2D charts. It fetches real-time data from the REST Countries API to display population information for the top 15 most populous countries.
 
+## Screenshot
+![Dashboard Screenshot](images/dashboard-screenshot.png)
+
 ## Features
 - Interactive 3D globe visualization using Three.js
 - Population data represented by scaled 3D cubes on the globe
@@ -51,10 +54,10 @@ This project is a 3D Global Operations Dashboard that visualizes global populati
 This project uses the [REST Countries API](https://restcountries.com/). No API key is required for basic usage.
 
 ## Contributing
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/mattheworford/global-ops-dashboard/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/your-username/global-ops-dashboard/issues) if you want to contribute.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 - Three.js community for documentation and examples
