@@ -1,0 +1,64 @@
+{
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US",
+        "sales": 235,
+        "coordinates": [37.0902, -95.7129]
+      },
+      {
+        "name": "China",
+        "code": "CN",
+        "sales": 210,
+        "coordinates": [35.8617, 104.1954]
+      },
+      {
+        "name": "Japan",
+        "code": "JP",
+        "sales": 145,
+        "coordinates": [36.2048, 138.2529]
+      },
+      {
+        "name": "Germany",
+        "code": "DE",
+        "sales": 130,
+        "coordinates": [51.1657, 10.4515]
+      },
+      {
+        "name": "United Kingdom",
+        "code": "GB",
+        "sales": 115,
+        "coordinates": [55.3781, -3.4360]
+      },
+      {
+        "name": "India",
+        "code": "IN",
+        "sales": 95,
+        "coordinates": [20.5937, 78.9629]
+      },
+      {
+        "name": "France",
+        "code": "FR",
+        "sales": 85,
+        "coordinates": [46.2276, 2.2137]
+      },
+      {
+        "name": "Brazil",
+        "code": "BR",
+        "sales": 75,
+        "coordinates": [-14.2350, -51.9253]
+      },
+      {
+        "name": "Italy",
+        "code": "IT",
+        "sales": 70,
+        "coordinates": [41.8719, 12.5674]
+      },
+      {
+        "name": "Canada",
+        "code": "CA",
+        "sales": 65,
+        "coordinates": [56.1304, -106.3468]
+      }
+    ]
+  }
