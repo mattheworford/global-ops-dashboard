@@ -54,10 +54,10 @@ This project is a 3D Global Operations Dashboard that visualizes global populati
 This project uses the [REST Countries API](https://restcountries.com/). No API key is required for basic usage.
 
 ## Contributing
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/your-username/global-ops-dashboard/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/mattheworford/global-ops-dashboard/issues) if you want to contribute.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - Three.js community for documentation and examples
